@@ -349,7 +349,7 @@ def generate_page(title, description, palette):
 
 """GRADIO INTERFACE"""
 
-import gradio as gr
+
 
 with gr.Blocks() as demo:
 
